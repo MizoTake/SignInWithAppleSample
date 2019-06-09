@@ -1,8 +1,8 @@
 # [WIP] SignInWithAppleSample
 
-## Unity Environment
-2018.4.0f1
-Xcode 11.0 beta (11M336w)
+## Environment
+- 2018.4.0f1
+- Xcode 11.0 beta (11M336w)
 
 ## 参考
 - [Adding the Sign In with Apple Flow to Your App

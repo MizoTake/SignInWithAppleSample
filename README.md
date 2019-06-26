@@ -12,21 +12,10 @@
 ## 現状
 Xcodeでシミュレータビルドする際にMetal周りでエラーが出る
 
-![](./.image/img1.png)
-
-![](./.image/img2.png)
 
 該当する箇所を消せばビルドは可能
 
-
-<img src="./.image/img3.png" height="320px">
-
-Signinを押すことで処理が走る
-
-<img src="./.image/img4.png" height="320px">
-<img src="./.image/img5.png" height="320px">
-
-ここでパスワードを入力するのだが処理が完了せずコールバックも走らない
+パスワードを入力するのだが処理が完了せずコールバックも走らない
 
 またボタンは公式で用意されているものに準拠しないといけないためUnityだと扱い辛いそう(今回は処理のSampleのみの予定)
 
